@@ -1,0 +1,2 @@
+# Procurement Savings Calculator PWA
+Deploy to GitHub Pages, enable Pages, open HTTPS URL in Safari, Share > Add to Home Screen. Service worker and installability require HTTPS. Offline works after first load.
